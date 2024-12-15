@@ -4,12 +4,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      
+      - href: about.qmd
+        text: About
+
   sidebar:
-   top:
-   -href: projects/scorecard_analysis.qmd
-  
+    top:
+      - href: projects/scorecard_analysis.qmd
+        text: Scorecard Analysis
+
 format:
   html:
     theme: lumen
