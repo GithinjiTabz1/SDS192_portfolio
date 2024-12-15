@@ -1,0 +1,19 @@
+website:
+  title: "Portfolio Showcase"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      
+  sidebar:
+   top:
+   -href: projects/scorecard_analysis.qmd
+  
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual

@@ -8,13 +8,13 @@ Welcome to my portfolio! Here, you can explore my projects in data analysis, map
 
 Explore my recent projects:
 
--   [**Project 1: Scorecard Analysis**](Projects/project-1-alya-tabitha/scorecard_analysis.qmd)**:** Unveiling key trends in scorecard metrics.
+-   [**Project 1: Scorecard Analysis**](project-1-alya-tabitha/scorecard_analysis.qmd)**:** Unveiling key trends in scorecard metrics.
 
--   [**Project 2: FEC Analysis**](Projects/project-2-fec-alya-tabitha/fec-analysis.qmd)**:** Insights from election commission data.
+-   [**Project 2: FEC Analysis**](project-2-fec-alya-tabitha/fec-analysis.qmd)**:** Insights from election commission data.
 
--   [**Project 3: Mapping Demographics**](Projects/project-3-mapping-sabzara-tabitha/mapping.qmd)**:** Visualizing Chipotle stores distribution through maps.
+-   [**Project 3: Mapping Demographics**](project-3-mapping-sabzara-tabitha/mapping.qmd)**:** Visualizing Chipotle stores distribution through maps.
 
-![Choropleth Map of US Population](Projects/project-3-mapping-sabzara-tabitha/Chloropleth%20map%20of%20US%20population.png) *Mapping U.S. population density by region.*
+![Choropleth Map of US Population](project-3-mapping-sabzara-tabitha/Chloropleth%20map%20of%20US%20population.png) *Mapping U.S. population density by region.*
 
 ## About Me
 
