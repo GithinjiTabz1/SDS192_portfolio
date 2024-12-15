@@ -1,0 +1,40 @@
+---
+title: "Tabitha Githinji"
+about:
+  id: Tgithinji
+  template: trestles
+  image: "myself.jpg"
+  links:
+    
+    - icon: github
+      text: GitHub
+      href: https://github.com/GithinjiTabz1
+    - icon: bookmark
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tabitha-githinji-02815632a/
+---
+
+**Tabitha Githinji** is a first-year student at **Smith College**, intending to pursue a double major in **Computer Science** and **Statistical & Data Sciences**.Originally from Nairobi, Kenya, she is passionate about using technology and data to drive positive change.
+
+When I'm not studying, I love listening to music, getting lost in movies, or exploring innovative ideas in technology and data science.
+
+## Availability
+
+Tabitha is open to connecting and discussing topics such as project ideas, academic interests, or professional opportunities. To schedule a conversation, please reach out via email.
+
+## Education
+
+**Smith College** - Northampton,MA\
+Expected Major: **Statistical & Data Sciences** and **Computer Science**\
+Expected Graduation: 2028
+
+## Experience
+
+-   **Communications Intern**\
+    **Conway Innovation and Entrepreneurship Center**\
+    Smith College, Northampton, MA\
+    *Conducting market research, financial analysis, and project management to foster innovation. Mentoring peers and organizing workshops to promote entrepreneurial skills.*
+
+## Future Goals
+
+## Tabitha aims to integrate her skills in **Computer Science** and **Statistical and Data Sciences** to create solutions that can tackle global challenges, particularly in the areas of environmental sustainability and social equity. She looks forward to exploring more entrepreneurial and social impact initiatives during her time at Smith College and beyond.

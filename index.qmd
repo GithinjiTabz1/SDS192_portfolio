@@ -1,0 +1,25 @@
+---
+title: "Tabitha Githinji's Portfolio"
+---
+
+Welcome to my portfolio! Here, you can explore my projects in data analysis, mapping, and beyond.
+
+## Projects
+
+Explore my recent projects:
+
+-   [**Project 1: Scorecard Analysis**](Projects/project-1-alya-tabitha/scorecard_analysis.qmd)**:** Unveiling key trends in scorecard metrics.
+
+-   [**Project 2: FEC Analysis**](Projects/project-2-fec-alya-tabitha/fec-analysis.qmd)**:** Insights from election commission data.
+
+-   [**Project 3: Mapping Demographics**](Projects/project-3-mapping-sabzara-tabitha/mapping.qmd)**:** Visualizing Chipotle stores distribution through maps.
+
+![Choropleth Map of US Population](Projects/project-3-mapping-sabzara-tabitha/Chloropleth%20map%20of%20US%20population.png) *Mapping U.S. population density by region.*
+
+## About Me
+
+I'm a data enthusiast with a passion for creating impactful visualizations and analyses. [Learn more about me](about.qmd).
+
+## Fun Links
+
+-   Lost? Visit my [404 page](404.qmd).
