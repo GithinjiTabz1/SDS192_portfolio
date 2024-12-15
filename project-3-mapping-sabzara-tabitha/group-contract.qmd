@@ -1,0 +1,166 @@
+---
+title: "SDS 192 Group Contract"
+author:
+ - Sabzara Ali
+ - Tabitha GIthinji
+ - Author Three
+date: "Last updated on `r Sys.Date()`"
+format: pdf
+output: html_document
+---
+
+Working in groups can be both incredibly rewarding and incredibly challenging. The most effective collaborations explicitly outline group roles, expectations, and procedures in advance to coordinate how the group will operate, to establish mechanisms of accountability, and to mitigate the risk of conflict. It is important that, throughout the semester, you address group concerns as they come up. This may involve assigning someone to check in with team members that are falling behind, establishing expectations for attending office hours and asking for help, calling team meetings to discuss issues, or reaching out to the instructor to resolve enduring and unresolved conflicts.		
+
+# ROLES
+
+## Who will be responsible for scheduling meetings and hosting Zoom calls? 
+
+Tabitha
+
+## Who will be responsible for facilitating discussion during team meetings?
+
+Sabzara 
+
+## Who will be responsible for taking notes and recording decisions during meetings?
+
+Tabitha
+
+## Who will be responsible for emailing the professor with questions?
+
+Sabzara
+
+## Who will be responsible for requesting group assignment extensions?
+
+Tabitha
+
+## Who will be responsible for setting deadlines for drafts? 
+
+Sabzara
+
+## Who will be responsible for checking in with team members when drafts are late?
+
+Tabitha
+
+## Who will be responsible for reviewing all materials before submission?
+
+Sabzara
+
+## Who will be responsible for submitting assignments?
+
+Tabitha
+
+
+# COLLABORATIVE WORKSPACES
+
+## Where will the team keep meeting notes? 
+
+In a google docs.
+
+## Where will the team store drafts of assignments? 
+
+In your branch on R.
+
+## Through what channels will the team communicate when not meeting?
+
+Slack
+
+## What is the expected response time for emails and messages? 
+
+1 day 
+
+
+# MEETINGS
+
+## How often will the team meet? 
+
+Twice a week
+
+## What days/times will the team meet?
+
+During project days
+
+## How long will meetings be?
+
+2 hours
+
+## How will you make decisions during meetings (e.g. consensus, a vote)?
+
+Discussing
+		
+## What strategies will you use to stay on task during meetings?
+
+Have a clear target of what needs to be done
+
+## How should team members inform each other if they are going to be late to a meeting?
+
+Slack
+			
+## When is it ok for a team member to skip a meeting? How soon should they inform the group?
+
+If they have an emergency
+
+## What will you do if a group member is chronically absent from or late to meetings?
+
+I will write them an email.
+
+## What will you do if a group member is consistently not participating in meetings?
+
+I'll talk to them about it.
+
+## What are your expectations for respectful engagement and communication during meetings and in collaborative workspaces? What will you do if a member of your team does not meet these expectations?
+
+Have clear communication 
+
+
+# ASSIGNMENTS
+
+## How will you ensure that all team members fully understand assignment expectations? What will you do if your team is unsure how to complete an assignment?
+
+Discuss the assignment before doing it.
+
+## How will you ensure that all team members are contributing equitably to assignments?
+
+Assign specific tasks to each member
+
+## How soon in advance of deadlines do you expect all team members to share drafts of their work?
+
+As soon as they are done
+
+## What will be your process for reviewing each other’s work before submission?
+
+Discuss the work before submitting
+
+## What will you do if the quality of a team member’s work does not meet the group’s expectations? When is it permissible to revise another team member’s work?
+
+Review it and work on the areas that need improving
+
+## What are your expectations around punctuality regarding group deadlines? How should team members inform each other if they need an extension?
+
+Team members should communicate early if they need extensions.
+
+## What will you do if a student is consistently late in submitting draft work?
+
+Talk to them about it
+
+## What will you do if you discover that a team member’s work violates the Academic Code of Conduct?
+
+Talk to them about it
+
+# SIGNATURES
+
+* I participated in drafting the standards, roles, and procedures outlined in this document.
+* I agree to abide by the terms and conditions outlined in this document.			
+* I understand that failing to abide by the terms and conditions outlined in this document may impact my grade.
+ 							
+Signature: FILL ME 
+Date: `r format(Sys.time(), '%d %B, %Y')`
+
+Signature: FILL ME 
+Date: `r format(Sys.time(), '%d %B, %Y')`
+
+Signature: FILL ME
+Date `r format(Sys.time(), '%d %B, %Y')`
+
+
+Once you are done, in the Git tab in your Environment pane, stage and commit your changes, and then push them to your GitHub repo.  
+
