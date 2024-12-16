@@ -1,22 +1,21 @@
-website:
-  title: "Tabitha Githinji's Portfolio"
-  output dir: docs
+project:
+  type: website
+  output-dir: docs
+ 
+  
+website: 
+  title: "Portfolio Showcase" 
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-
+      - about.qmd
+  
+      
   sidebar:
-    top:
-      - href: project-1-alya-tabitha/scorecard_analysis.qmd
-        text: Scorecard Analysis
-      - href: project-2-fec-alya-tabitha/fec-analysis.qmd
-        text: FEC Analysis
-      - href: project-3-mapping-sabzara-tabitha/mapping.qmd
-        text: Mapping Demographics
-
+   top:
+   -href: Projects/scorecard_analysis.qmd
+  
 format:
   html:
     theme: lumen
@@ -24,4 +23,3 @@ format:
     toc: true
 
 editor: visual
-
