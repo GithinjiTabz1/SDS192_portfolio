@@ -1,5 +1,6 @@
 website:
-  title: "Portfolio Showcase"
+  title: "Tabitha Githinji's Portfolio"
+  output dir: docs
   navbar:
     left:
       - href: index.qmd
@@ -9,8 +10,12 @@ website:
 
   sidebar:
     top:
-      - href: projects/scorecard_analysis.qmd
+      - href: project-1-alya-tabitha/scorecard_analysis.qmd
         text: Scorecard Analysis
+      - href: project-2-fec-alya-tabitha/fec-analysis.qmd
+        text: FEC Analysis
+      - href: project-3-mapping-sabzara-tabitha/mapping.qmd
+        text: Mapping Demographics
 
 format:
   html:
@@ -19,3 +24,4 @@ format:
     toc: true
 
 editor: visual
+
