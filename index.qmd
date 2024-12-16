@@ -1,5 +1,8 @@
 ---
 title: "Tabitha Githinji's Portfolio"
+output:
+  html_document:
+    css: "styles.css"
 ---
 
 Welcome to my portfolio! Here, you can explore my projects in data analysis, mapping, and beyond.

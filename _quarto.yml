@@ -1,14 +1,20 @@
-website:
-  title: "Portfolio Showcase"
+project:
+  type: website
+  output-dir: docs
+ 
+  
+website: 
+  title: "Portfolio Showcase" 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  
       
   sidebar:
    top:
-   -href: projects/scorecard_analysis.qmd
+   -href: Projects/scorecard_analysis.qmd
   
 format:
   html:
